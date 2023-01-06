@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "username": "jpuhan",
+      "firstName": "Jeevan",
+      "lastName": "Puhan",
+      "email": "jpuhan@deloitte.com",
+      "phone": "9853570711",
+      "password": "Password"
+    },
+    {
+      "id": 102,
+      "username": "siba",
+      "firstName": "Sibajyoti",
+      "lastName": "Sahoo",
+      "email": "sibsahoo@deloitte.com",
+      "phone": "9853570712",
+      "password": "Password"
+    },
+    {
+      "username": "snesen",
+      "firstName": "Snehashis",
+      "lastName": "Sen",
+      "email": "snesen@deloitte.com",
+      "phone": "9876543291",
+      "password": "Password",
+      "id": 103
+    },
+    {
+      "username": "",
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "id": 104
+    },
+    {
+      "username": "rmahapatro",
+      "firstName": "Rahul",
+      "lastName": "Mahapatro",
+      "email": "rmahapatro@deloitte.com",
+      "phone": "9090786123",
+      "password": "Password",
+      "id": 105
+    }
+  ],
+  "products": []
+}
